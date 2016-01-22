@@ -1,0 +1,25 @@
+{
+  "name": "reactstart",
+  "version": "1.0.0",
+  "description": "Boilerplate for React applications",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aronmagyari/ReactStart.git"
+  },
+  "author": "Aron Magyari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aronmagyari/ReactStart/issues"
+  },
+  "homepage": "https://github.com/aronmagyari/ReactStart#readme",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.0",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
+    "react-router-component": "^0.29.0",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
